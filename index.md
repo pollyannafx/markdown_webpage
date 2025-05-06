@@ -13,3 +13,4 @@ Some of my projects are shared with friends on the Internet, hence my anonymity.
 - For music nerds: https://everynoise.com/
 - For computer nerds: https://esolangs.org/wiki/Main_Page
 - For society nerds: https://ourworldindata.org/
+- For media nerds: https://app.adfontesmedia.com/chart/interactive?utm_source=SourcePage&utm_medium=OnPageLink
